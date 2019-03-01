@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+h2 {
+		color: black;
+		background-color: purple;
+		text-align: center;
+	}
+
+p {
+		text-align: center;
+	}
+
+h1 {
+		text-align: center;
+}
+
+table#status {
+	border: 15pt;
+	padding: 15px;
+	font-size: 16pt;
+	border: 4px black solid;
+	text-align: center;
+	position: relative;
+	right: -420px;
+}
+td {
+	border: 3px black solid;
+	padding-right: 15px;
+}
